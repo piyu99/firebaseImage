@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1478178011",
+    "project_id": "pragtech-9a94a",
+    "storage_bucket": "pragtech-9a94a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1478178011:android:4367d0ef0cc6fa72b0c8fe",
+        "android_client_info": {
+          "package_name": "com.appzapp.pragtech"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1478178011-c28v78ohanoot04ng34fj85gjngamv04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHoEeZiEwiI_Zk7DvcZ19U5s27HIRo1hU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1478178011-c28v78ohanoot04ng34fj85gjngamv04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
